@@ -1,3 +1,3 @@
-# Asset Import - Multiple sources to Hornbill
+# Hornbill Cleaner Utility
 
-See the [Data Import Guides](https://docs.hornbill.com/data-imports-guide/) for documentation.
+See the [Wiki Page](https://docs.hornbill.com/hornbill-utilities/hornbill-clean-utility) for documentation.
